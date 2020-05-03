@@ -90,19 +90,24 @@ function showQuestion(index) {
   }
 }
 
-
+//I know I need to total up counter when the question loops hits .length and enter name
 function showResults () {
   alert("We're Done")
 }
 
 
+function enterName () {
 
+}
+
+
+//1st attempt at for loop
 // for (let i= 0; i < quizQuestions.length; i++) {
 //   question = questions[i][0];
 //   answer = questions [i][2];
 //   response
 //   if ( question === answer){
-//     correctAnswer = "Yay! You got it right!"
+//     {} correctAnswer = "Yay! You got it right!"
 //     correctAnswers+= 1;
 //   }
 //   else( question == answer)
@@ -114,7 +119,7 @@ function showResults () {
 
 
 
-
+//what i need to do
 //1. Register event listener for start button
 //Display question of radio buttons
 //if current question = currentQuestions.length invoke show results
