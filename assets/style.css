@@ -1,0 +1,38 @@
+.startbutton {
+    text-align: center;
+}
+
+.time {
+    text-align: right;
+}
+
+.main-content{
+    border: 1px solid ;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 65px;
+    width: 90%;
+
+}
+
+.timetracker{
+    text-align: center;
+}
+.scoretracker {
+  text-align: left;
+  margin-left: 70px;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+form {
+    text-align: center;
+}
+
+.submitbutton {
+    text-align: center;
+    margin-top: 200px;
+}
